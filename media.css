@@ -1,0 +1,43 @@
+
+@media(max-width: 800px){
+    .track-art{
+        height: 200px;
+        width: 200px;
+    }
+    .track-name{
+        font-size: 2.0rem;
+    }
+    .track-artist{
+        font-size: 1.2rem;
+    }
+    .seek_slider {
+        width: 40%;
+    }
+    .volume_slider {
+        width: 25%;
+    }
+    .up {
+        padding: 5px;
+    }
+    .current-time, .total-duration {
+        padding: 5px;
+    }
+    .repeat-track, .random-track, .playpause-track, .prev-track, .next-track {
+        padding: 15px;
+    }
+    .random-track{
+        font-size: 10px;
+    }
+    .prev-track{
+        font-size: 10px;
+    }
+    .playpause-track{
+        font-size: 10px;
+    }
+    .next-track{
+        font-size: 10px;
+    }
+    .repeat-track{
+        font-size: 10px;
+    }
+}
